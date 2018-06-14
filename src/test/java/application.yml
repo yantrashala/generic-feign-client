@@ -1,0 +1,7 @@
+gateway-service-id: http://gatewayserverhost
+logging:
+  level:
+    io.github.yantrashala: DEBUG
+    io.github.yantrashala.sc.client.ServiceClientTest: DEBUG
+    io.github.yantrashala.sc.client.ServiceClient: DEBUG
+    org.springframework.web.filter.CommonsRequestLoggingFilter: DEBUG
