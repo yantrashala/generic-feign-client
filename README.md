@@ -1,5 +1,5 @@
-# feign-generic-client
-A generic client implementation for Feign that may be used to invoke any services directly or via Eureka
+# Feing based generic client
+A generic feign based http client implementation that may be used to invoke any services directly or via Eureka
 
 To use:
 Set a dependency for this jar/project.
